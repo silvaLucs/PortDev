@@ -1,0 +1,54 @@
+#aboutMe {
+    background-image: url(/assets/Background_Intro.png);
+    justify-content: center;
+    background-size: cover;
+    padding-block: 120px 57px;
+    
+    
+
+    div:nth-child(1){
+        justify-items: center;
+        
+        text-align: center;
+
+  img {
+        margin-bottom: 56px;
+    }
+
+    h1 {
+        margin-block: 8px 20px;
+    }
+    
+   }
+
+   #skills {
+    margin-block: 80px 100px;
+   }
+    }
+
+
+
+  .skills {
+    color: var(--gray-500);
+    font: var(--text-md);
+    height: 40px;
+    gap: 8px;
+
+
+    align-content: center;
+
+    padding: 8px 16px;
+
+    border-radius: 20px;
+    
+
+    background-color: var(--gray-300);
+
+    img {
+        width: 24px;
+        height: 24px;
+        aspect-ratio: 1/1;
+        object-fit: cover;
+    }
+
+  }
