@@ -1,0 +1,32 @@
+#helpu {
+    background-color: var(--gray-100);
+    justify-items: center;
+
+    padding-block: 88px;
+
+    h2 {
+        margin-block: 8px 56px;
+    }
+
+    div {
+        gap: 24px;
+    }
+}
+
+.serviceBox { 
+    border: 2px solid var(--gray-200);
+    border-radius: 12px;
+    padding: 20px;
+    align-content: center;
+
+    h3 {
+        margin-block: 20px 8px;
+    }
+
+    img {
+        width: 48px;
+        height: 48px;
+        object-fit: contain;
+        aspect-ratio: 1/1;
+    }
+}
