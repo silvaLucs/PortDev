@@ -3,6 +3,7 @@
     justify-items: center;
 
     padding-block: 88px;
+    text-align: center;
 
     h2 {
         margin-block: 8px 56px;
@@ -18,6 +19,7 @@
     border-radius: 12px;
     padding: 20px;
     align-content: center;
+    text-align: left;
 
     h3 {
         margin-block: 20px 8px;
