@@ -2,6 +2,7 @@
     background-image: url(/assets/Background_Intro.png);
     justify-content: center;
     background-size: cover;
+    background-position: top;
     padding-block: 120px 57px;
     
     
